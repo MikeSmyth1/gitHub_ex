@@ -1,2 +1,3 @@
 Testing GitHub 
 Document1
+Second line of text (Checking git status)
